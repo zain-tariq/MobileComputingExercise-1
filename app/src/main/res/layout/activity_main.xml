@@ -17,12 +17,12 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.514" />
 
-    <Button
-        android:id="@+id/button4"
+    <CheckBox
+        android:id="@+id/checkBox2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Let's Do This"
-        tools:layout_editor_absoluteX="150dp"
-        tools:layout_editor_absoluteY="391dp" />
+        android:text="You are not a Robot?"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="405dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
