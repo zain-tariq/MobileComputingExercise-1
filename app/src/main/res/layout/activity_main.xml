@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="146dp"
         android:layout_height="31dp"
-        android:text="Hello World"
+        android:text="This is my new App"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.456"
         app:layout_constraintLeft_toLeftOf="parent"
